@@ -1,5 +1,18 @@
-## Hi there 👋
+## 👋 Hi Everyone!
 
+My name is Aleksey Nihaenko, and I am a Senior Data Engineer 💼
+
+I specialize in:
+- High data quality 📊
+- Integration 🔗
+- Reliability in data delivery 📦
+- Preparing data for end users (e.g., analysts, BI specialists, and more) 📈
+
+## Tech Stack:
+- Python 🐍
+- SQL 🗃️
+
+Feel free to reach out to me on Telegram: [AlekseyN92](https://t.me/AlekseyN92) 📬
 <!--
 **NAA1992/NAA1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
