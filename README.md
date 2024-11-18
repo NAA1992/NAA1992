@@ -24,8 +24,13 @@ Feel free to reach out to me on Telegram: [AlekseyN92](https://t.me/AlekseyN92) 
 - ArcESB (ETL tool)
 - Adobe Photoshop
 - Adobe After Effects
+- Adobe Dreamweaver (Web-Design)
+- Adobe Flash Proffesional
+- Corel Draw
+- 1C (v. 7.7-8.2)
 - TEMS Investigation (For Mobile Network, Drive-Test Engineers)
 - NEMO (For Mobile Network, Drive-Test Engineers)
+- AutoCAD, ArchiCAD (Design Buildings)
 
 <!--
 **NAA1992/NAA1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
