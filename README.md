@@ -24,6 +24,8 @@ Feel free to reach out to me on Telegram: [AlekseyN92](https://t.me/AlekseyN92) 
 - ArcESB (ETL tool)
 - Adobe Photoshop
 - Adobe After Effects
+- TEMS Investigation (For Mobile Network, Drive-Test Engineers)
+- NEMO (For Mobile Network, Drive-Test Engineers)
 
 <!--
 **NAA1992/NAA1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
