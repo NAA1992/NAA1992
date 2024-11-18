@@ -16,7 +16,6 @@ Feel free to reach out to me on Telegram: [AlekseyN92](https://t.me/AlekseyN92) 
 
 ## Tech Stack in the past (It's not a fact that I'm using it now)
 - Databases: Oracle, PostgreSQL, MS SQL
-- ActionScript (Flash Player)
 - VBA (Visual Basic for Script - used in the Excel)
 - C# (C Sharp, used in the Visual Studio)
 - SSIS (SQL Server Intergration Services, extension for Visual Studio and integration tool for MS SQL)
@@ -31,6 +30,8 @@ Feel free to reach out to me on Telegram: [AlekseyN92](https://t.me/AlekseyN92) 
 - TEMS Investigation (For Mobile Network, Drive-Test Engineers)
 - NEMO (For Mobile Network, Drive-Test Engineers)
 - AutoCAD, ArchiCAD (Design Buildings)
+- PHP / HTML / CSS / JavaScript
+- ActionScript (Flash Player)
 
 <!--
 **NAA1992/NAA1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
