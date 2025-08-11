@@ -127,6 +127,7 @@ The combination of skills below ensures that I can design, develop and deploy re
 ---
 
 ### 🏛 Integration with Government Services
+- **Keycloak** — identity and access management, SSO, OAuth2/OpenID Connect integration
 - **СМЭВ** — secure data exchange between agencies
 - **ЕСИА** — identity verification and authentication
 - **ЕГИСЗ** — healthcare system integration and compliance
