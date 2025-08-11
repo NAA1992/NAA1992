@@ -41,6 +41,7 @@ The combination of skills below ensures that I can design, develop and deploy re
 
 ### 💻 Programming Languages
 - **Python** — backend development, automation, scripting
+- **SQL** — querying and managing relational databases
 - **C#** — Visual Studio, enterprise backend applications
 - **Visual Basic** — Visual Studio, enterprise backend applications
 - **JavaScript, HTML, CSS** — frontend basics and integration
