@@ -73,6 +73,12 @@ The combination of skills below ensures that I can design, develop and deploy re
 
 ---
 
+### 📊 Business Intelligence & Data Visualization
+- **Power BI** — interactive data visualization and reporting
+- **SQL Server Analytics (OLAP)** — multidimensional data analysis on SQL Server
+
+---
+
 ### 📦 Frameworks & Libraries
 
 #### **Web Development & APIs**
