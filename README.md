@@ -50,7 +50,9 @@ The combination of skills below ensures that I can design, develop and deploy re
 ---
 
 ### 🔄 ETL & Integration Tools
+- **Apache NiFi** — visual design and automation of data flows
 - **SSIS** *(SQL Server Integration Services — Visual Studio extension)*
+- **SAP Data Services Cloud** — cloud-based ETL and data integration platform from SAP
 - **WSO2 Integration Studio**
 - **ArcESB**
 
